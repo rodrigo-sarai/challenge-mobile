@@ -87,7 +87,7 @@ public class OrderDetailsActivity extends AppCompatActivity {
             sliderData.add(new SliderAdapterData(url));
         }
 
-        SliderAdapter adapter = new SliderAdapter(this, sliderData);
+        SliderAdapter adapter = new SliderAdapter(sliderData);
 
         binding.imgSlider.setAutoCycleDirection(SliderView.LAYOUT_DIRECTION_LTR);
         binding.imgSlider.setSliderAdapter(adapter);
