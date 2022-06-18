@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ModalChallenge</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="liveon_title">"LiveOn Challenge"</string>
+    <string name="button_login">FAZER LOGIN</string>
+    <string name="text_email">EMAIL</string>
+    <string name="text_senha">SENHA</string>
+    <string name="logo_image">Logo Image</string>
+    <string name="empty_email">Informe um email!</string>
+    <string name="empty_password">Informe a senha!</string>
+    <string name="error_logginin">Erro ao executar login!</string>
+
+    <!-- Strings related to Home -->
+    <string name="home_caption">Home</string>
+    <string name="error_getting_profile">Erro ao obter dados de profile do usuário!</string>
+    <string name="home_meuperfil">"MEU PERFIL"</string>
+    <string name="home_order_description">"#%d %s"</string>
+    <string name="home_user_address">"%s - %s"</string>
+    <string name="home_status">"Status de Acompanhamento"</string>
+    <string name="home_prior_item">"\u003C"</string>
+    <string name="home_next_item">"\u003E"</string>
+    <string name="home_assinaturas">"Minhas Assinaturas"</string>
+    <string name="home_sair">"Sair"</string>
+
+    <!-- Strings related to Order List -->
+    <string name="orderlist_caption">Listatem de Pedidos</string>
+    <string name="orderlist_assinaturas">"MINHAS ASSINATURAS"</string>
+    <string name="error_getting_orderlist">Erro ao obter dados dos pedidos do usuário!</string>
+
+    <!-- Strings related to Order Details -->
+    <string name="orderdetails_caption">Detalhes do Pedido</string>
+    <string name="error_getting_orderdetails">Erro ao obter dados do pedido do usuário!</string>
+    <string name="orderdetails_modelyear">%d %s</string>
+    <string name="orderdetails_montlyprice">R$ %s</string>
+    <string name="orderdetails_vehicledoors">%d Portas</string>
+    <string name="orderdetails_vehicleengine">Motor %s</string>
+    <string name="orderdetails_signaturedetails">Informações da Assinatura</string>
+    <string name="orderdetails_months">meses</string>
+    <string name="orderdetails_additionalfranchise">km adicional</string>
+    <string name="orderdetails_additionalfranchisevalue">R$%s</string>
+    <string name="orderdetails_signaturevalues">Valores</string>
+    <string name="orderdetails_monthlyprice">Aluguel Mensal</string>
+    <string name="orderdetails_extrasprice">Acessórios</string>
+    <string name="orderdetails_totalprice">Total</string>
+    <string name="orderdetails_pricepresentation">R$ %s</string>
+
+
+    <!--END font_manager-->
+</resources>
